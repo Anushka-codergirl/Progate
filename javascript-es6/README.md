@@ -40,7 +40,7 @@ In JavaScript Study VI, we'll cover methods for handling arrays that are essenti
 
 [Study 06](./study_6)
 
-## JavaScript (ES6) VI
+## JavaScript (ES6) VII
 
 In JavaScript Ⅶ, you will learn about callback functions.
 
